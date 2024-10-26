@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
-import ProductList from './ProductList'
-import CategoryList from './CategoryList'
+import ProductList from './components/ProductList'
+import CategoryList from './components/CategoryList'
 import axios from 'axios'
 
 function App() {
